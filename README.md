@@ -2,7 +2,6 @@
 
 - 💞 Pronouns: She/her
 - 🌱 I’m currently studying cybersecurity and business!
-- 💬 I'm looking to collaborate on improving my libraries.
 - 📩 You can reach me by emailing me at marymacbradshaw@gmail.com
 
 <!---
